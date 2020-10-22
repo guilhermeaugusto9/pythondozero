@@ -1,4 +1,4 @@
-# Módulo 1
+# Módulo 1 - Introdução ao Python
 
 * [Documentação Oficial do Python](https://docs.python.org/pt-br/3/)
 
@@ -13,3 +13,7 @@
 * [5 Motivos Para Você Aprender Python - Sigmoidal](https://sigmoidal.ai/5-motivos-para-voce-aprender-python/)
 
 * [Why You Should Learn Python - Coding Dojo](https://www.codingdojo.com/blog/why-you-should-learn-python#:~:text=Python%20is%20one%20of%20the,%2C%20and%20object%2Doriented%20features.&text=Although%20it's%20a%20high%2Dlevel,and%20has%20a%20clean%20syntax.)
+
+* [Introdução ao pandas](https://www.youtube.com/watch?v=0Sps5yh-lEU&t)
+
+* 
