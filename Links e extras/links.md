@@ -16,4 +16,5 @@
 
 * [Introdução ao pandas](https://www.youtube.com/watch?v=0Sps5yh-lEU&t)
 
-* 
+* [Hello, World! - Learn Python](https://www.learnpython.org/en/Hello,_World!)
+
