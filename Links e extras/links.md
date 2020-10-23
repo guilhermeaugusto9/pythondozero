@@ -18,3 +18,7 @@
 
 * [Hello, World! - Learn Python](https://www.learnpython.org/en/Hello,_World!)
 
+* [Operadores Básicos - learnpython.org](https://www.learnpython.org/pt/Operadores_b%C3%A1sicos)
+
+* [Operators and Expressions - Real Python](https://realpython.com/python-operators-expressions/)
+
