@@ -22,3 +22,9 @@
 
 * [Operators and Expressions - Real Python](https://realpython.com/python-operators-expressions/)
 
+* [Variables in Python](https://realpython.com/python-variables/)
+
+* [Python Variables](https://www.w3schools.com/python/python_variables.asp)
+
+* [Basic Data Types in Python](https://realpython.com/python-data-types/)
+
