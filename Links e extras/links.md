@@ -86,3 +86,59 @@
 
 * [Sweetviz: Automated EDA in Python](https://towardsdatascience.com/sweetviz-automated-eda-in-python-a97e4cabacde)
 
+
+# Módulo 4 - Análise e Tratamento de Dados com Python
+
+
+* [Exploratory Data Analysis with Python - Towards Data Science](https://towardsdatascience.com/exploratory-data-analysis-eda-python-87178e35b14)
+
+* [Basic EDA Tutorial - Data Camp](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=332602034358&utm_targetid=aud-299261629574:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1001541)
+
+
+* [EDA vs Classical vs Bayesian](https://www.itl.nist.gov/div898/handbook/eda/section1/eda12.htm)
+
+* [Python Lists - W3 School](https://www.w3schools.com/python/python_lists.asp)
+
+* [Lists and Tuples - Real Python](https://realpython.com/python-lists-tuples/)
+
+* [Dictionaries in Python - Real Python](https://realpython.com/python-dicts/)
+
+* [Python Dictionaries - W3 Schools](https://www.w3schools.com/python/python_dictionaries.asp)
+
+* [Python if, elif, else - Datacamp](https://www.datacamp.com/community/tutorials/python-if-elif-else?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=332602034358&utm_targetid=aud-763347114660:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1001541)
+
+* [Python If Else - Programiz](https://www.programiz.com/python-programming/if-elif-else)
+
+* [Python For Loops - Real Python](https://realpython.com/python-for-loop/)
+
+* [Python Loops - Geeks for Geeks](https://www.geeksforgeeks.org/loops-in-python/)
+
+* [Python While Loops - Real Python](https://realpython.com/python-while-loop/)
+
+* [Python Loops - W3 Schools](https://www.w3schools.com/python/python_while_loops.asp)
+
+* [Pythonic Data Cleaning with Numpy and Pandas - Real Python](https://realpython.com/python-data-cleaning-numpy-pandas/)
+
+* [Data Cleaning with Python Ultimate Guide - Towards Data Science](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d)
+
+* [Como Tratar Dados Ausentes com Pandas - Sigmoidal.ai](https://sigmoidal.ai/como-tratar-dados-ausentes-com-pandas/)
+
+* [How to Handle Missing Data with Python - Machine Learning Mastery](https://machinelearningmastery.com/handle-missing-data-python/)
+
+* [Dealing with Missing Data - Towards Data Science](https://towardsdatascience.com/how-to-deal-with-missing-data-in-python-1f74a9112d93)
+
+* [Find Duplicate Rows in Data Frames - This Pointer](https://thispointer.com/pandas-find-duplicate-rows-in-a-dataframe-based-on-all-or-selected-columns-using-dataframe-duplicated-in-python/)
+
+* [3 Ways to Check for Duplicates - This Pointer](https://thispointer.com/python-3-ways-to-check-if-there-are-duplicates-in-a-list/)
+
+* [Pandas Duplicated - Documentação Oficial](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.duplicated.html)
+
+
+
+# Módulo 5 - Dominando planilhas Excel com Python
+
+* [Documentação Openpyxl](https://openpyxl.readthedocs.io/en/stable/)
+
+
+
+
