@@ -151,3 +151,18 @@
 * [Tutorial Oficial Scrapy](https://docs.scrapy.org/en/latest/intro/tutorial.html)
 
 * [Web Scraping in Python - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/)
+
+* [Quotes To Scrape](http://quotes.toscrape.com/page/1/)
+
+* [HTML Hierarchy](https://www.htmlgoodies.com/beyond/article.php/11156_3681551_2/The-HTML-Hierarchy-Thinking-Inside-the-Box.htm)
+
+* [Selector Gadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb?hl=en)
+
+*  Passo a passo para criar um novo projeto:
+    * iniciando um novo projeto:  scrapy startproject "nome do projeto" 
+    * acessar a pasta do projeto: cd quotes
+    * executar o projeto : scrapy crawl "nome da classe que escolheu para a spider"
+    
+* Para salvar o resultado em um json por exemplo 
+    * scrapy crawl quotes -o quotes.json
+    
