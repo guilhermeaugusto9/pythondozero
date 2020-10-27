@@ -140,5 +140,14 @@
 * [Documentação Openpyxl](https://openpyxl.readthedocs.io/en/stable/)
 
 
+# Módulo 6 - Web Scraping com Python
 
+* [Web Scraping with Python - Edureka](https://www.edureka.co/blog/web-scraping-with-python/)
 
+* [A Practical Introduction to Python Web Scraping - Real Python](https://realpython.com/python-web-scraping-practical-introduction/)
+
+* [Documentação Scrapy](https://scrapy.org/)
+
+* [Tutorial Oficial Scrapy](https://docs.scrapy.org/en/latest/intro/tutorial.html)
+
+* [Web Scraping in Python - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/)
